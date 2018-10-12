@@ -1,0 +1,3 @@
+rootProject.name = 'tooltipMinimalExample'
+
+include ':app'
